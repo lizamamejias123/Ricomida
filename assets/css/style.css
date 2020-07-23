@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+padding-top: 5.5em!important;
+  font-family: 'Cabin', sans-serif!important;
+width: 100%!important;
+}
+span{
+  font-size: 37px;
+}
+
+
+@media (min-width: 68px) and (max-width:800px){
+  body {
+    padding-left: 10%!important;
+    padding-right: 10%!important;
+    padding-top: 20%!important;
+
+    }
+    .row{
+      margin-right: 0px!important;
+  margin-left: 0px!important;
+  padding-left: 0px!important;
+  padding-right: 0px!important;
+}
+.col-sm-12, .col-sm-12{
+  padding-right: 0px!important;
+  padding-left: 0px!important;
+}
+h1{  text-align: center;
+font-size: 25px}
+h2{font-size: 16px;
+text-align: center;
+padding-top: 10px;}
+.btn{font-size: 13px;}
+h3, h4{font-size: 20px;
+font-weight:400;font-family: 'Cabin', sans-serif!important;
+line-height: 30px}
+.h2-2{font-size: 25px;
+font-weight: 700;}
+h5{font-size: 17px;
+font-weight:700}
+p{font-size: 16px;
+font-weight:400;}
+.par-1{font-size: 30px;font-weight:700}
+.par-2{font-size: 20px;font-weight:400}
+.newsletter{margin-left: -13%!important;
+    margin-right: -13%!important;}
+.span-1{font-size: 20px;}
+.sect-1{padding: 10%;}
+
+    }
+
+
+@media (min-width: 800px) and (max-width:1500px) {
+  body {
+  padding-left: 10%!important;
+  padding-right: 10%!important;
+    padding-top: 10%!important;}
+
+    .row {
+    margin-right: -15px!important;
+    margin-left: -15px!important;
+    padding-left: 15px!important;
+    padding-right: 15px!important;}
+    h1 {text-align: left!important;font-size: 40px; margin-right: 50px}
+    h2{font-size: 20px;text-align: left;  padding-top: 10px;}
+    .btn{font-size: 16px;}
+    h3, h4{font-size: 20px;font-weight:400;font-family: 'Cabin', sans-serif!important;line-height: 30px}
+    .h2-2{font-size: 40px;font-weight: 700;}
+    h5{font-size: 23px;font-weight:700}
+    p{font-size: 16px;font-weight:400}
+    .par-1{font-size: 40px;font-weight:700}
+    .par-2{font-size: 30px;font-weight:400}
+    .newsletter{margin-left: -12%!important;  margin-right: -12%!important;}
+    .sect-1{padding: 10%;}
+.btn-block{width: 20%!important}
+
+}
+
+.col-3 {padding-left: 0px!important; padding-right:0px!important;}
+.w-75{width: 95%!important}
+.carousel-indicators {
+  top: 50px;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+      margin-top: 120px;
+}
